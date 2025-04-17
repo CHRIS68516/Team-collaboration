@@ -67,3 +67,7 @@ A few initial scores are entered to provide a working dataset for analytics. The
 <img width="944" alt="insert " src="https://github.com/user-attachments/assets/6f56da04-198b-4031-86a4-329bf430a1ac" />
 
 
+🧹 Data Modification Example
+An example DELETE statement is included to show how to remove a student from the system (student_id = 10). This can be adapted for other use cases like removing dropped students or correcting errors.
+
+<img width="800" alt="delete " src="https://github.com/user-attachments/assets/8125572a-edf4-44b8-8e52-dad95f0f6229" />
