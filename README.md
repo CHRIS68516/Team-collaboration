@@ -1,6 +1,7 @@
-# Team-collaboration
+🎓 Student Performance & Analytics System
 
 🎓 Student Performance & Analytics System
+
 📌 Overview
 The Student Performance & Analytics System is a comprehensive Oracle SQL-based solution designed to manage and analyze student academic performance across multiple subjects and exams. This system focuses on database creation, data management, and the generation of advanced insights through SQL queries and PL/SQL procedures.
 
