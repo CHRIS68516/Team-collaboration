@@ -137,12 +137,13 @@ exams
 subjects
 <img width="447" alt="12" src="https://github.com/user-attachments/assets/8e9b4c1e-bcb8-45cd-b3d2-2c2680fb1907" />
 
+🛠️ System Requirements
+Database: Oracle DB (tested with Oracle 12c and later)
 
+Tools: SQL*Plus, Oracle SQL Developer, or any compatible IDE
 
+Optional: Enable output for PL/SQL (SET SERVEROUTPUT ON in SQL*Plus)
 
-🛠️ System Requirements Database: Oracle DB (tested with Oracle 12c and later)
-    Tools: SQL*Plus, Oracle SQL Developer, or any compatible IDE
-    Optional: Enable output for PL/SQL (SET SERVEROUTPUT ON in SQL*Plus)
 
 
 
