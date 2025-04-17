@@ -140,13 +140,9 @@ subjects
 
 
 
-🛠️ System Requirements
-Database: Oracle DB (tested with Oracle 12c and later)
-
-Tools: SQL*Plus, Oracle SQL Developer, or any compatible IDE
-
-Optional: Enable output for PL/SQL (SET SERVEROUTPUT ON in SQL*Plus)
-
+🛠️ System Requirements Database: Oracle DB (tested with Oracle 12c and later)
+    Tools: SQL*Plus, Oracle SQL Developer, or any compatible IDE
+    Optional: Enable output for PL/SQL (SET SERVEROUTPUT ON in SQL*Plus)
 
 
 
@@ -166,6 +162,7 @@ Create procedures for bulk data loading or automated ranking generation.
 
 
 🙌 Final Note
+
 "All knowledge and understanding come from God. To Him be the glory for every line of code, every insight revealed, and every challenge overcome."
 
 This project was developed with diligence, purpose, and a heart of gratitude. May it serve as a helpful tool for learning, analysis, and growth.
