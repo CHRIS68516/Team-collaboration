@@ -138,12 +138,15 @@ subjects
 <img width="447" alt="12" src="https://github.com/user-attachments/assets/8e9b4c1e-bcb8-45cd-b3d2-2c2680fb1907" />
 
 
+
+
 🛠️ System Requirements
 Database: Oracle DB (tested with Oracle 12c and later)
 
 Tools: SQL*Plus, Oracle SQL Developer, or any compatible IDE
 
 Optional: Enable output for PL/SQL (SET SERVEROUTPUT ON in SQL*Plus)
+
 
 
 
@@ -159,4 +162,12 @@ Create views for common queries (e.g., top performers per subject).
 Implement triggers to validate data on insert/update.
 
 Create procedures for bulk data loading or automated ranking generation.
+
+
+
+🙌 Final Note
+"All knowledge and understanding come from God. To Him be the glory for every line of code, every insight revealed, and every challenge overcome."
+
+This project was developed with diligence, purpose, and a heart of gratitude. May it serve as a helpful tool for learning, analysis, and growth.
+
 
