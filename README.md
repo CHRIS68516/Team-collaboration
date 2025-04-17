@@ -100,7 +100,6 @@ These queries help identify top talent, students needing support, and patterns i
 <img width="720" alt="3" src="https://github.com/user-attachments/assets/42223249-b363-4d80-875f-0b6103aba0a3" />
 <img width="944" alt="5" src="https://github.com/user-attachments/assets/ac251c8c-0fcc-4730-b5f2-4aa81ebfb376" />
 
-**
 
 
 
