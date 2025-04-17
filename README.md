@@ -125,11 +125,14 @@ The script concludes by displaying all records from the core tables:
 students
 <img width="485" alt="10" src="https://github.com/user-attachments/assets/7bcc380f-253b-4b27-996c-0d0463547511" />
 
+
 subjects
 <img width="315" alt="11" src="https://github.com/user-attachments/assets/0207c653-7557-4311-a81b-07d27de4cd18" />
 
+
 exams
 <img width="486" alt="13" src="https://github.com/user-attachments/assets/8f0b377c-70df-425b-8fb4-3d6eba15a6bb" />
+
 
 scores
 <img width="447" alt="12" src="https://github.com/user-attachments/assets/8e9b4c1e-bcb8-45cd-b3d2-2c2680fb1907" />
