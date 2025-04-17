@@ -76,3 +76,23 @@ An example DELETE statement is included to show how to remove a student from the
 The script uses a PL/SQL cursor loop to iterate through the scores table and display each score using DBMS_OUTPUT.PUT_LINE. This demonstrates procedural control and output in Oracle SQL and is useful for batch processing or diagnostics.
 
 <img width="822" alt="procedure  " src="https://github.com/user-attachments/assets/256e991d-1366-49ee-a930-e03e87ebf0c8" />
+
+📊 Advanced Analytics Using Window Functions
+Window functions are powerful SQL features that provide row-wise calculations without collapsing rows (unlike aggregate functions). This script demonstrates multiple use cases:
+
+LAG & LEAD: Show previous and next scores to understand trends.
+
+RANK & DENSE_RANK: Rank students within their class based on performance.
+
+ROW_NUMBER: Identify the order of student scores or participation in exams.
+
+Top Performers: Extract the top 3 students in each class.
+
+Lowest Performers: Extract the bottom 5 students per class.
+
+Aggregate Max Scores: Display the maximum score in each class and overall, alongside student details.
+
+These queries help identify top talent, students needing support, and patterns in performance.
+
+<img width="815" alt="select" src="https://github.com/user-attachments/assets/86c960dd-adb4-4786-9281-e0a2d16d3200" />
+
