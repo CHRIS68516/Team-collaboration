@@ -101,5 +101,21 @@ These queries help identify top talent, students needing support, and patterns i
 <img width="944" alt="5" src="https://github.com/user-attachments/assets/ac251c8c-0fcc-4730-b5f2-4aa81ebfb376" />
 
 
+🧠 Custom Functions
+Two reusable SQL functions are created for deeper insights:
+
+1. get_student_avg(student_id)
+Purpose: Returns the average score of a student across all exams.
+
+Use case: Useful for tracking overall student performance and eligibility for honors or academic interventions.
+
+2. get_student_rank(student_id, subject_id)
+Purpose: Returns the rank of a student within a specific subject.
+
+Use case: Enables per-subject performance tracking and comparisons between students.
+
+These functions encapsulate logic that can be reused in reports or application logic.
+
+<img width="860" alt="9" src="https://github.com/user-attachments/assets/43126478-a2e9-4dcf-94ca-147bd0b242b9" />
 
 
