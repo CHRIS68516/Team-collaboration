@@ -21,4 +21,4 @@ Provide a foundation for data-driven decision-making in academic administration.
 Before recreating the database schema, the script ensures that any previously existing tables (scores, exams, subjects, students) are safely dropped to avoid duplication errors. Each DROP TABLE operation is encapsulated in a PL/SQL block to suppress errors if the table does not already exist.
 
 
-https://github.com/CHRIS68516/Team-collaboration/blob/main/drop%20table%20.png
+<img width="884" alt="drop table " src="https://github.com/user-attachments/assets/b99b4cce-247c-4e9b-810b-0d1234b7ca6c" />
