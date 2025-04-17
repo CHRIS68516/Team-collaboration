@@ -95,4 +95,12 @@ Aggregate Max Scores: Display the maximum score in each class and overall, along
 These queries help identify top talent, students needing support, and patterns in performance.
 
 <img width="815" alt="select" src="https://github.com/user-attachments/assets/86c960dd-adb4-4786-9281-e0a2d16d3200" />
+<img width="805" alt="1" src="https://github.com/user-attachments/assets/1e460cfb-2214-4280-a223-5e38770cb1d4" />
+<img width="727" alt="2" src="https://github.com/user-attachments/assets/5f2f026a-20bc-4aac-8fd2-79a2d81ee085" />
+<img width="720" alt="3" src="https://github.com/user-attachments/assets/42223249-b363-4d80-875f-0b6103aba0a3" />
+<img width="944" alt="5" src="https://github.com/user-attachments/assets/ac251c8c-0fcc-4730-b5f2-4aa81ebfb376" />
+
+**
+
+
 
