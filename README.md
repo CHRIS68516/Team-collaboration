@@ -71,3 +71,8 @@ A few initial scores are entered to provide a working dataset for analytics. The
 An example DELETE statement is included to show how to remove a student from the system (student_id = 10). This can be adapted for other use cases like removing dropped students or correcting errors.
 
 <img width="800" alt="delete " src="https://github.com/user-attachments/assets/8125572a-edf4-44b8-8e52-dad95f0f6229" />
+
+🔁 PL/SQL Looping Example
+The script uses a PL/SQL cursor loop to iterate through the scores table and display each score using DBMS_OUTPUT.PUT_LINE. This demonstrates procedural control and output in Oracle SQL and is useful for batch processing or diagnostics.
+
+<img width="822" alt="procedure  " src="https://github.com/user-attachments/assets/256e991d-1366-49ee-a930-e03e87ebf0c8" />
