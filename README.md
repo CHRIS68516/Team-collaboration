@@ -23,3 +23,19 @@ Before recreating the database schema, the script ensures that any previously ex
 
 
 <img width="884" alt="drop table " src="https://github.com/user-attachments/assets/b99b4cce-247c-4e9b-810b-0d1234b7ca6c" />
+
+
+🧱 2. Creating Tables
+
+The system consists of four interconnected tables:
+
+students: Contains personal details about each student, such as their ID, name, gender, and class grouping.
+
+
+<img width="763" alt="create table student" src="https://github.com/user-attachments/assets/1a534805-58a9-4a5d-a1c9-bb3881234526" />
+
+subjects: Defines the list of subjects offered (e.g., Math, Science, English).
+
+exams: Captures exam-specific details, including the subject and the date on which the exam was conducted.
+
+scores: Records individual student scores for each exam, linking to both the student and the exam.
