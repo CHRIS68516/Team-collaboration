@@ -137,6 +137,20 @@ exams
 subjects
 <img width="447" alt="12" src="https://github.com/user-attachments/assets/8e9b4c1e-bcb8-45cd-b3d2-2c2680fb1907" />
 
+ Conceptual Diagram
+
+ <img width="649" alt="MODEL1" src="https://github.com/user-attachments/assets/2d3669c4-8896-4325-842d-34007691f844" />
+ 
+ <img width="590" alt="model 2" src="https://github.com/user-attachments/assets/5e270483-fa7e-40dd-8bbd-69830ffff846" />
+ 
+ <img width="365" alt="model 3" src="https://github.com/user-attachments/assets/278139b9-7981-430d-8fa4-6735a18aaf21" />
+
+Conception Model
+
+![ERD](https://github.com/user-attachments/assets/8102a7cd-eea0-4fcc-8f8a-49744fdcea6b)
+
+
+
 🛠️ System Requirements
 Database: Oracle DB (tested with Oracle 12c and later)
 
