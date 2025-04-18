@@ -18,6 +18,7 @@ Provide a foundation for data-driven decision-making in academic administration.
 
 
 ⚙️ Database Structure & Logic
+
 🔄 1. Dropping Existing Tables
 Before recreating the database schema, the script ensures that any previously existing tables (scores, exams, subjects, students) are safely dropped to avoid duplication errors. Each DROP TABLE operation is encapsulated in a PL/SQL block to suppress errors if the table does not already exist.
 
